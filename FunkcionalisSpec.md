@@ -14,6 +14,9 @@ az aktuális nyereményét és egyenlegét.
 
 Admin: Az admin beléphet minden más szerepkörbe, hogy a rendszer hibamentes működését ellenőrizhesse. Az admin(ok) feladata a rendszer problémamentes működése. Ez egyben jár azzal, hogy az egész rendszerhez van hozzáférésük. Az admin(ok)nak hozzá kell tudni férniük a felhasználók listájához, hogy az esetleges változásokat el tudják végezni. Tudniuk kell a felhasználók jogosultságait, szerepkörét, jelszavát, és felhasználónevét módosítani. Képesnek kell lenniük arra, hogy felhasználókat vegyenek fel a rendszerbe és, hogy rakjanak le belőle. Képesek üzenetet küldeni az összes felhasználónak, valamint globális üzeneteket, amelyeket mindenki megkap egyszerre.
 
+## Jelenlegi helyzet
+
+[KövetelménySpec](KovetelmenySpec.md#Jelenlegi-helyzet)
 
 ## Követelménylista
 
